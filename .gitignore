@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+decisions.json
+to_unfollow.txt
+.DS_Store
